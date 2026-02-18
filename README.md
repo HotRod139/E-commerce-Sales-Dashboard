@@ -1,0 +1,1 @@
+Here is an Excel Project with yearly sales data of an e-commerce business. I have used advanced Excel formulas like VLOOKUP and SUMIFS and advanced features like pivot tables and combo box to reach to the objective.
